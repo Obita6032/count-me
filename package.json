@@ -2,7 +2,7 @@
   "name": "web-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "./https://github.com/Obita6032/count-me.git",
+  "homepage": "https://github.com/Obita6032/count-me.git",
   "type": "module",
   "scripts": {
     "dev": "vite",
